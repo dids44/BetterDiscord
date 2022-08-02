@@ -325,8 +325,6 @@ body {
   height: 370px;
   width: 100%;
   overflow: hidden;
-  transition: box-shadow 0.2s ease-out, transform 0.2s ease-out,
-    background 0.2s ease-out, border 0.2s ease-out, opacity 0.2s ease-in;
 }
 
 .card-YtRIQ2 {
